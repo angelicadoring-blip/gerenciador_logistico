@@ -1,0 +1,5 @@
+# Configuração local do banco de dados
+/config/conexao.php
+
+# Arquivos temporários do Mac
+.DS_Store
